@@ -1,0 +1,13 @@
+body {
+    background-image: url("../images/bg.jpg");
+    background-size: cover;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    border: 3px solid white;
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto;
+}
